@@ -31,7 +31,6 @@ Before running the application, you need to have the following dependencies inst
 
 - Python 3.x
 - Flask (install with `pip install Flask`)
-- [Add any other prerequisites here.]
 
 ### Installation
 
@@ -63,7 +62,7 @@ static/: Static files such as CSS and JavaScript.
 model/: Contains the pre-trained machine learning model.
 
 Machine Learning Model
-The real estate price prediction model is trained on a dataset of real estate properties and uses [mention the machine learning algorithm used] to make predictions.
+The real estate price prediction model is trained on a dataset of real estate properties and uses to make predictions.
 
 Web Application
 The web application is built with Flask, a Python web framework. It provides a user-friendly interface for users to input property details and receive price predictions.
@@ -75,4 +74,4 @@ Contributing
 Feel free to contribute to this project. You can add any specific feature and kindly request for the pull.
 
 License
-This project is licensed under the [Sahil Shukla] 
+MIT LICENCE
