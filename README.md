@@ -73,5 +73,3 @@ You can deploy this application to a production environment using platforms like
 Contributing
 Feel free to contribute to this project. You can add any specific feature and kindly request for the pull.
 
-License
-MIT LICENCE
